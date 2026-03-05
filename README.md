@@ -109,13 +109,3 @@ Removes **2 Pipe Machine Guns** from the specified SteamID.
 -   Works with **Player Name**, **SteamID**, or **EntityId**.
 
 ------------------------------------------------------------------------
-
-# Use Cases
-
--   Removing **duped items**
--   Server **admin moderation**
--   Cleaning up **exploit items**
--   Managing **economy balance**
-
-------------------------------------------------------------------------
-
