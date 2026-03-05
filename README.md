@@ -119,13 +119,3 @@ Removes **2 Pipe Machine Guns** from the specified SteamID.
 
 ------------------------------------------------------------------------
 
-# Compatibility
-
-Designed for **7 Days to Die dedicated servers** with custom server
-commands.
-
-------------------------------------------------------------------------
-
-# License
-
-Free to use and modify.
